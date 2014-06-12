@@ -1,0 +1,31 @@
+{
+  "name": "angular-force",
+  "main": "ngForce.js",
+  "homepage": "https://github.com/dnakov/ngForce",
+  "authors": [
+    "dnakov <daniel.nakov@gmail.com>"
+  ],
+  "description": "based on ngForce from @noeticpenguin https://github.com/noeticpenguin/ngForce",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.9",
+    "restangular": "~1.2.2"
+  },
+  "_release": "445eeeaf6f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "445eeeaf6f7cd97c832a04ef1524b0b75859386a"
+  },
+  "_source": "git://github.com/dnakov/angular-force.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/dnakov/angular-force.git"
+}

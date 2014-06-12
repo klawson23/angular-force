@@ -1,0 +1,23 @@
+{
+  "name": "angular-force",
+  "main": "ngForce.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dnakov/ngForce",
+  "authors": [
+    "dnakov <daniel.nakov@gmail.com>"
+  ],
+  "description": "based on ngForce from @noeticpenguin https://github.com/noeticpenguin/ngForce",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.9",
+    "restangular": "~1.2.2"
+  }
+}
