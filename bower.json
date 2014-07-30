@@ -6,7 +6,7 @@
   "authors": [
     "dnakov <daniel.nakov@gmail.com>"
   ],
-  "main": ["./ngForce.js"],
+  "main": ["./ngForce.js", "/src/classes/ngForceController.cls", "/src/classes/ngForController_TEST.cls", "/src/classes/TestUtils.cls"],
   "description": "based on ngForce from @noeticpenguin https://github.com/noeticpenguin/ngForce",
   "license": "MIT",
   "private": true,
