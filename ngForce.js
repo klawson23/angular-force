@@ -182,7 +182,7 @@ angular.module('ngForce').factory('vfr', function($q, $rootScope) {
 	// Describe Field Set
 	vfRemote.describeFieldSet = vfRemote.send('ngForceController.describeFieldSet', standardOptions, false);
 	// Describe Picklist Values 
-	vfRemote.getpicklistValues = vfRemote.send('ngForceController.getPicklistValues', standardOptions, false);
+	vfRemote.getPicklistValues = vfRemote.send('ngForceController.getPicklistValues', standardOptions, false);
 	// Get Object Type
 	vfRemote.getObjectType = vfRemote.send('ngForceController.getObjType', standardOptions, false);
 	// Get Query Results as select2 data
